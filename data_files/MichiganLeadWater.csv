@@ -1,7 +1,5 @@
-"Public Water
-Supply ID",System Name,County,Population,"Last Monitoring
-Period End","Lead 90th
-Percentile (ppb)","Includes
+"ID","System","County","Population","Last Monitoring
+Period End","Lead 90th Percentile (ppb)","Includes
 5th liter?","Sampling Next Due
 (subject to change)"
 MI0000011,ACME TOWNSHIP - HOPE VILLAGE,GRAND TRAVERSE,128,12/31/2023,0,N,09/30/2026
